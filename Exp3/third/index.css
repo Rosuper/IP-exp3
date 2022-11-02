@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: aquamarine;
+  
+}
+form{
+    display: flex;
+    justify-content: center;
+   margin-top: 5em;
+    flex-wrap: wrap;
+}
+
+.result{
+    display: flex;
+    justify-content: center;
+   margin-top: 26px;
+    flex-wrap: wrap;
+    /* margin-left: -100px; */
+}
+.check1{
+    width: 100px;
+    height: 27px;
+}
+.check1:hover{
+background-color: aqua;
+}
